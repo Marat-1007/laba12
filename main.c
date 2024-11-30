@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 #include "calculate.h"
 int main(void) {
   float Numeral;
